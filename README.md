@@ -1,7 +1,6 @@
-Hi, thank you for buying my script, I'm very grateful!
+Deobfuscated Version Of okokTextUi ⭐
 
-If you need help contact me on discord: okok#3488
-Discord server: https://discord.gg/FauTgGRUku
+If you need help contact me on discord: GhostmaneX#2077
 
 # To display a text UI
 
